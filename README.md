@@ -29,5 +29,3 @@ This project analyzes Brazilian e-commerce data using Power BI.
 - Screenshots
 - README
 
-## 🚀 Author
-Your Name
